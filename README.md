@@ -10,3 +10,6 @@ Get do Dono: ![GetDono1](https://github.com/user-attachments/assets/92f635d5-8c0
 
 Put do Carro: ![PutCarro](https://github.com/user-attachments/assets/9154988d-0019-41c3-b671-4027383807b6)
 
+Get do DOno pelo seu ID: ![getDono](https://github.com/user-attachments/assets/de481cdc-19da-4eb8-908b-cb6e31d7ee7d)
+
+
