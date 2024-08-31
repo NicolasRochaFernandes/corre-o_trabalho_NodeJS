@@ -18,6 +18,10 @@ Put do Dono: ![PutDono](https://github.com/user-attachments/assets/d0aa8f4a-0794
 
 Put do Carro: ![PutCarro](https://github.com/user-attachments/assets/fefd09b9-3922-4370-b2d3-cd760db44af7)
 
+Delete do Dono:![DeleteDOno](https://github.com/user-attachments/assets/e7059a30-898e-42c4-acef-8b75e3d5124f)
+
+Delete do Carro: ![DeletarCarroPeloID](https://github.com/user-attachments/assets/b02b34a1-a397-4a18-a58a-1d734ccea247)
+
 
 
 
