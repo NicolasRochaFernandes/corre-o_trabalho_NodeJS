@@ -14,5 +14,10 @@ Get do Dono pelo seu ID: ![GetDonoPeloID](https://github.com/user-attachments/as
 
 Get do Carro pelo seu ID: ![GetCarroPeloID](https://github.com/user-attachments/assets/3982d909-8c09-4ee9-a08e-a193afbdad47)
 
+Put do Dono: ![PutDono](https://github.com/user-attachments/assets/d0aa8f4a-0794-40dc-aa45-e341d74fb7e2)
+
+Put do Carro: ![PutCarro](https://github.com/user-attachments/assets/fefd09b9-3922-4370-b2d3-cd760db44af7)
+
+
 
 
