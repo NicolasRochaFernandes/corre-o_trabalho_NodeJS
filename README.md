@@ -8,9 +8,9 @@ Criar Carro: ![Imagem do WhatsApp de 2024-08-30 à(s) 20 37 35_5b4d39bd](https:/
 
 Get do Dono: ![GetDono1](https://github.com/user-attachments/assets/92f635d5-8c0e-4545-af5f-1ab9fe1e33cb)
 
-Get do Carro: 
+Get do Carro: ![getCarros](https://github.com/user-attachments/assets/cb65d217-128d-41ba-ae89-379673f75ec2)
 
-Get do Dono pelo seu ID: ![getDono](https://github.com/user-attachments/assets/de481cdc-19da-4eb8-908b-cb6e31d7ee7d)
+Get do Dono pelo seu ID: ![GetDonoPeloID](https://github.com/user-attachments/assets/46106466-8500-455c-bc24-4a5e185dfe6e)
 
 Get do Carro pelo seu ID: ![GetCarroPeloID](https://github.com/user-attachments/assets/3982d909-8c09-4ee9-a08e-a193afbdad47)
 
